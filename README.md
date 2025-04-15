@@ -1,2 +1,2 @@
-# strobedepression
-analysis pipelines for PCI and VHQ data
+# strobe_depression
+analysis pipelines (Jupyter Notebook)
